@@ -12,6 +12,7 @@ public class Lab063_Functions {
     }
     public static void function1()
     {
+
         System.out.println("1.Without Parameters and Without Return Type");
     }
     public static String function2()
